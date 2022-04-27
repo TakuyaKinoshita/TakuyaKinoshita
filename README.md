@@ -43,5 +43,3 @@ Here are some ideas to get you started:
   [![PS4 Badge](https://img.shields.io/badge/-PSN-385898?style=flat-square&logo=Playstation&logoColor=white)]()
   
 - 💬 Ask me about ...
-
-- 
